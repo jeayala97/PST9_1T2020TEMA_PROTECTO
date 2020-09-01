@@ -76,6 +76,8 @@
         android:layout_marginTop="11dp"
         android:ems="10"
         android:textColorHint="#FFFFFF"
+        android:textColor="#FFFFFF"
+        android:textColorHighlight="#FFFFFF"
         android:hint="Ingresar Nombre"
         android:inputType="textPersonName"
         app:layout_constraintStart_toStartOf="parent"
@@ -91,6 +93,8 @@
         android:ems="10"
         android:hint="Ingresar Cedula"
         android:textColorHint="#FFFFFF"
+        android:textColor="#FFFFFF"
+        android:textColorHighlight="#FFFFFF"
         android:inputType="textPersonName"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView5" />
@@ -105,6 +109,8 @@
         android:ems="10"
         android:hint="Ingresar Apellido"
         android:textColorHint="#FFFFFF"
+        android:textColor="#FFFFFF"
+        android:textColorHighlight="#FFFFFF"
         android:inputType="textPersonName"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView4" />

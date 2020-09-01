@@ -18,7 +18,7 @@ import java.nio.Buffer;
 
 public class Mostrar extends AppCompatActivity {
 
-    String urladd="http://192.168.100.4:8008/proyecto/mostrar.php";
+    String urladd="http://192.168.100.17:8008/proyecto/mostrar.php";
     String [] cedula;
     String [] nombre;
     String [] apellido;

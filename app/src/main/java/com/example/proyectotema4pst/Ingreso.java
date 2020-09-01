@@ -67,7 +67,7 @@ public class Ingreso extends AppCompatActivity {
         aceptar.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                servicio("http://192.168.100.4:8008/proyecto/insertar.php");
+                servicio("http://192.168.100.17:8008/proyecto/insertar.php");
             }
         });
 
